@@ -61,3 +61,10 @@ Make sure you have the following installed:
    ```sh
    php artisan serve
 
+9. Open your browser and navigate to
+   ```sh
+   http://localhost:8000
+## Usage
+    Create, edit, and delete posts using the web interface.
+    View the list of posts on the homepage.
+
