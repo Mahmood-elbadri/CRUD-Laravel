@@ -128,6 +128,9 @@
             <li class="nav-item active">
                 <a class="nav-link" href="{{route('posts.index')}}">Home <span class="sr-only"></span></a>
             </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="{{route('posts.deleted')}}">Deleted Items <span class="sr-only"></span></a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link" href="{{route('posts.about')}}">About</a>
             </li>
