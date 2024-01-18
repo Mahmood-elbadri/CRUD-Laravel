@@ -2,16 +2,14 @@
 
 A simple CRUD (Create, Read, Update, Delete) application built with Laravel.
 
-![Laravel CRUD](./public/images/laravel-crud.png)
+
 
 ## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## About the Project
 
