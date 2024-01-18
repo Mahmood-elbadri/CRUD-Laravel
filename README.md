@@ -31,7 +31,7 @@ Make sure you have the following installed:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yourusername/laravel-crud.git
+   git clone [[https://github.com/yourusername/laravel-crud.git](https://github.com/Mahmood-elbadri/CRUD-Laravel.git)](https://github.com/Mahmood-elbadri/CRUD-Laravel.git)
 2. Navigate to the project folder
    ```sh
    cd laravel-crud
